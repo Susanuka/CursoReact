@@ -1,3 +1,3 @@
 # CursoReact
 
-Hola mundo editado
+Hola mundo editado en remoto
